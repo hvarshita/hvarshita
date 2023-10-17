@@ -5,7 +5,7 @@
 - 📚 Currently a Graduate Data Science student at University of Washington, Seattle.
 - 💼 Previously: ML @ Amazon, Publicis Sapient, IIT Hyderabad 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/hema-varshita-m).
-- ⚡ About me: Jack of all, master of none (still better than master of one?).  
+- ⚡ About me: Jack of all, master of none (still better than master of one?)
 - 💬 Check out my portfolio: [Portfolio](https://hvarshita.github.io)  
 - 😄 Pronouns: She/Her  
 
